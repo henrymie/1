@@ -1,0 +1,16 @@
+{
+  "name": "late-beggar-possess-jkkak",
+  "productName": "late-beggar-possess-jkkak",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./main.js",
+  "version": "1.0.0",
+  "author": "manci",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "electron": "30.0.2"
+  }
+}
